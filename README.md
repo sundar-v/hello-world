@@ -1,5 +1,5 @@
 # hello-world
 Sample Repo
 
-
-This is hellow world read me sample.
+This is hello world read me sample.
+New edits.
